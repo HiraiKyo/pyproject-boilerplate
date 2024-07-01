@@ -1,3 +1,9 @@
+.mypy_cache/
+.env
+.env.local
+.env.development
+.env.production
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
